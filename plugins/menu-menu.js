@@ -204,26 +204,6 @@ ${margen}
 
 ${margen}
 
-> 💫 *INFORMACIÓN* 💫\n
-${generateCommand(commandsInfo, usedPrefix)}
-
-${margen}
-
-> 💻 *COMANDOS - SUB BOT*\n
-${generateCommand(commandsJadiBot, usedPrefix)}
-
-${margen}
-
-> 🆘 *REPORTAR COMANDOS* 🆘\n
-${generateCommand(commandsReport, usedPrefix)}
-
-${margen}
-
-> 🪅 *GATABOT TEMPORAL* 🪅\n
-${generateCommand(commandsLink, usedPrefix)}
-
-${margen}
-
 > 🎟️ *SER PREMIUM* 🎟️\n
 ${generateCommand(commandsPrem, usedPrefix)}
 
