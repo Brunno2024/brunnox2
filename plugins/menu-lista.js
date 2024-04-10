@@ -116,9 +116,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🔊 _*MENÚ DE AUDIOS*_ 🔊
 ┃➺ _${usedPrefix}menuaudio | menuaudios_
 ┃
-┃💫 _${lenguajeGB['smsTex13']()}_ 💫
-┃➺ _${usedPrefix}infomenu_
-┃
 ┃👾 _${lenguajeGB['smsTex10']()}_ 👾
 ┃➺ _${usedPrefix}juegosmenu_
 ┃
